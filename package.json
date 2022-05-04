@@ -1,6 +1,6 @@
 {
     "name": "pulumi-crds-cert-manager",
-    "version": "",
+    "version": "1.7.2",
     "scripts": {
         "build": "tsc"
     },
